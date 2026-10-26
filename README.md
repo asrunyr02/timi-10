@@ -1,1 +1,1 @@
-# timi-10
+# timi-10-objects
